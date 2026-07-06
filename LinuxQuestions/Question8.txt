@@ -1,0 +1,4 @@
+
+8. CSV file with 4 columns, first column integer length 14, 15, or 16.
+   Find count of records with length = 14:
+   awk -F',' 'length($1)==14 {count++} END {print count}' input.csv

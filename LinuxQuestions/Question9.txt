@@ -1,0 +1,2 @@
+9. Command to check if process XYZ is running
+ps -ef | grep XYZ

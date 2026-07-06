@@ -1,0 +1,3 @@
+7. Convert JSON file into CSV format
+jq -r '.[] | [.field1, .field2, .field3] | @csv' input.json > output.csv
+(Note: requires jq utility)

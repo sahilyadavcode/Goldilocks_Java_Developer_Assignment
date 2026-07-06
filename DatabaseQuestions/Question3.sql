@@ -1,0 +1,2 @@
+SELECT * FROM A WHERE date > '2023-04-01';
+SELECT * FROM B WHERE date > '2023-04-01';

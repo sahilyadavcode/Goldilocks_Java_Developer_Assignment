@@ -1,0 +1,5 @@
+6. File with comma separated values:
+   - List the third column into a new file:
+     cut -d',' -f3 input.csv > third_column.txt
+   - Find unique occurrences of integer values in third column with count:
+     sort third_column.txt | uniq -c

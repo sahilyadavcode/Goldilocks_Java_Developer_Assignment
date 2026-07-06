@@ -1,0 +1,2 @@
+4. Command to see last 10 lines in a file
+tail -n 10 filename

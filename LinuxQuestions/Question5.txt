@@ -1,0 +1,2 @@
+5. Command to see first 10 lines in a file
+head -n 10 filename

@@ -1,0 +1,11 @@
+1. List down 10 commands of Linux
+- ls        → list files and directories
+- cd        → change directory
+- pwd       → print working directory
+- cp        → copy files
+- mv        → move/rename files
+- rm        → remove files
+- cat       → view file contents
+- grep      → search for patterns
+- chmod     → change file permissions
+- ps        → show running processes

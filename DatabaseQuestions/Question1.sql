@@ -1,0 +1,6 @@
+-- Differences between Oracle and MySQL:
+-- 1. Oracle is commercial (licensed), MySQL is open-source (community edition free).
+-- 2. Oracle supports advanced features like RAC, partitioning, materialized views; MySQL is simpler.
+-- 3. Oracle uses PL/SQL for stored procedures; MySQL uses its own procedural language.
+-- 4. Oracle is highly scalable for enterprise workloads; MySQL is lightweight and widely used for web apps.
+-- 5. Oracle supports advanced security and auditing; MySQL has more basic security features.

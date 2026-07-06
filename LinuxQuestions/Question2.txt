@@ -1,0 +1,2 @@
+2. Command to find out a particular pattern in a file
+grep "pattern" filename

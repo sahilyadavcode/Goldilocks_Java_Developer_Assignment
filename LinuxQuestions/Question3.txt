@@ -1,0 +1,2 @@
+3. Command to find out a particular pattern in all files in multiple directories (recursive)
+grep -r "pattern" /path/to/search/

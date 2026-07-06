@@ -1,0 +1,2 @@
+10. Find PID of process using TCP port 10345
+sudo lsof -i TCP:10345
