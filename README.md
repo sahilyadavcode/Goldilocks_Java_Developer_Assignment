@@ -1,4 +1,3 @@
-Goldilocks Java Assignment
 📘 Description
 This repository contains solutions to the Java programming assignment provided by Goldilocks. The tasks are designed to evaluate practical Java development skills across multiple domains, simulating real-world scenarios that a developer may encounter in enterprise projects.
 
