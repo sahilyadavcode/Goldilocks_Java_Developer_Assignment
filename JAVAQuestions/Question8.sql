@@ -25,3 +25,4 @@ FROM Employees
 WHERE Age < 30
   AND Name LIKE 'S%';
 
+-- TIME TAKEN : 13MIN
