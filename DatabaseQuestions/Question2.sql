@@ -1,3 +1,8 @@
+-- 2.	There are 2 tables A and B (with 3 columns id, name, and date. Do the following.
+-- a.	Find the union of A and B
+-- b.	Find records which are present in A and not in B.
+-- c.	Find records which are not in A and not in B.
+-- d.	Find the count of records having same value of name more than 2 times in table A
 
 DROP TABLE A
 
