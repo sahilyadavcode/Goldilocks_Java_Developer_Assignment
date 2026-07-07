@@ -37,3 +37,5 @@ Input "255" → Output "11111111".
 
 Invalid input "abc" → should throw NumberFormatException.
 */
+
+//TIME TAKEN : 10MIN
